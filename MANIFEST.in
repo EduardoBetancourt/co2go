@@ -1,0 +1,3 @@
+graft co2go
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  co2go/jupy *
